@@ -1,0 +1,8 @@
+openai
+langchain>=0.0.300     
+pandas
+sqlite3                  
+sqlalchemy
+serpapi
+tqdm
+python-dotenv
